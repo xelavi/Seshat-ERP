@@ -25,6 +25,14 @@ CLAUDE.md
 __pycache__/
 *.pyc
 *.md
+!README.md
+
+# Eines d'IA / generadors de codi
+.claude/
+.github/copilot-instructions.md
+.github/skills/
+figma/
+
 # Odoo runtime data (docker-compose.odoo.yml)
 odoo_filestore/
 odoo_addons/*
